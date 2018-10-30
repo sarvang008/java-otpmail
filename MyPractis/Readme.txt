@@ -1,7 +1,7 @@
 S/W reqirement---
 
 jdk1.5
-eclise
+eclise lunar
 
 jar ---
 
